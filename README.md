@@ -1,6 +1,6 @@
 #  GBLM-Pruner: Gradient Based Language Model Pruner
 
-*Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models.*
+*[Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models.](https://arxiv.org/abs/2311.04902)*
 
 [Rocktim Jyoti Das](https://scholar.google.com/citations?user=kDsyWlMAAAAJ&hl=en), [Liqun Ma](https://scholar.google.com/citations?user=zVXXXGIAAAAJ&hl=zh-CN), [Zhiqiang Shen](http://zhiqiangshen.com/)
 
