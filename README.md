@@ -81,10 +81,12 @@ This project is released under the MIT license. Please see the [LICENSE](LICENSE
 If you found this work useful, please consider citing:
 
 ```
-@article{GBLM-Pruner,
-  title={Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models}, 
-  author={Rocktim Jyoti Das, Liqun Ma, Zhiqiang Shen},
-  year={2023},
-  journal={arXiv preprint}
+@misc{das2023size,
+      title={Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models}, 
+      author={Rocktim Jyoti Das and Liqun Ma and Zhiqiang Shen},
+      year={2023},
+      eprint={2311.04902},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
