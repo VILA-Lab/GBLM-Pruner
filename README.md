@@ -2,9 +2,11 @@
 
 *[Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models.](https://arxiv.org/abs/2311.04902)*
 
-[Rocktim Jyoti Das](https://scholar.google.com/citations?user=kDsyWlMAAAAJ&hl=en), [Liqun Ma](https://scholar.google.com/citations?user=zVXXXGIAAAAJ&hl=zh-CN), [Zhiqiang Shen](http://zhiqiangshen.com/)
+[Rocktim Jyoti Das*](https://scholar.google.com/citations?user=kDsyWlMAAAAJ&hl=en), [Mingjie Sun*](https://eric-mingjie.github.io/), [Liqun Ma](https://scholar.google.com/citations?user=zVXXXGIAAAAJ&hl=zh-CN), [Zhiqiang Shen*](http://zhiqiangshen.com/)
 
 Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi.
+
+Carnegie Mellon University, Pittsburgh.
 
 ## Contents
 - [Introduction](#introduction)
